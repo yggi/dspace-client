@@ -1,0 +1,23 @@
+1.52
+JavaScript
+/bucket/code/play/dspace-client/app/templateMap.js	1359645406	0	/bucket/code/play/dspace-client/app/templateMap.js
+/bucket/code/play/dspace-client/app/dspace.js	1359645406	1	DSpace
+/bucket/code/play/dspace-client/app/models/user.js	1359645528	1	User
+/bucket/code/play/dspace-client/app/models/marker.js	1359645468	1	Marker
+/bucket/code/play/dspace-client/app/collections/cors.js	1359645406	1	FeatureCollectionCORS
+/bucket/code/play/dspace-client/app/views/ui.js	1359648292	1	UI
+/bucket/code/play/dspace-client/app/main.js	1359645406	0	/bucket/code/play/dspace-client/app/main.js
+/bucket/code/play/dspace-client/app/views/panels.js	1359649102	1	Panel
+/bucket/code/play/dspace-client/app/views/map.js	1359645468	1	Map
+/bucket/code/play/dspace-client/app/collections/base.js	1359645406	1	FeatureCollection
+/bucket/code/play/dspace-client/app/config.js	1359645528	1	/bucket/code/play/dspace-client/app/config.js
+/bucket/code/play/dspace-client/app/models/feature.js	1359645406	1	Feature
+/bucket/code/play/dspace-client/app/helpers/renderAcc.js	1359645528	1	renderAcc
+/bucket/code/play/dspace-client/app/views/featureBox.js	1359646194	1	FeatureBox
+/bucket/code/play/dspace-client/app/helpers/renderPos.js	1359645406	0	/bucket/code/play/dspace-client/app/helpers/renderPos.js
+/bucket/code/play/dspace-client/app/helpers/setAccBg.js	1359645528	1	setAccBg
+/bucket/code/play/dspace-client/app/helpers/ms2kmh.js	1359645528	1	ms2kmh
+/bucket/code/play/dspace-client/app/views/featureBoxItem.js	1359645406	1	FeatureBoxItem
+/bucket/code/play/dspace-client/app/views/overlay.js	1359645468	1	Overlay
+/bucket/code/play/dspace-client/app/models/world.js	1359645468	1	World
+/bucket/code/play/dspace-client/app/views/miniMap.js	1359645406	1	MiniMap
